@@ -77,9 +77,9 @@ Once the motor is soldered and secured, the hardware modification is complete. Y
 
 This hardware mod requires corresponding firmware to function. You will need to compile and flash a keymap that has the haptic feedback code enabled.
 
+Please use the "haptic" keymap in my [qmk_firmware repo](https://github.com/tuxedocurly/qmk_firmware/tree/ploopy-knob-haptic/keyboards/ploopyco/knob/keymaps/haptic).
+
 Build command:
 ```
 qmk compile -kb ploopyco/knob/rev1_001 -km haptic
 ```
-
-Please use the "haptic" keymap in my [qmk_firmware repo](https://github.com/tuxedocurly/qmk_firmware/tree/ploopy-knob-haptic/keyboards/ploopyco/knob/keymaps/haptic).
