@@ -13,6 +13,7 @@ This guide assumes you have basic soldering experience, particularly with surfac
 | **MOSFET** | N-Channel MOSFET. Used to switch the motor on and off. | `WSON-6` | [Texas Instruments `CSD16301Q2` or similar](https://mou.sr/4fb3Gdl)|
 | **Quad Resistor** | 4x Resistor Network. | `1206` | [YC164-JR-071RL or similar](https://mou.sr/46wOlBU) |
 | **Haptic Motor** | A small coin/pancake style vibration motor. 8mm to 10mm is ideal. | N/A | Any generic 3V coin vibration motor, like [this one from Adafruit](https://www.adafruit.com/product/1201) |
+| **3D Printed Ploopy Knob Base** |Modified Ploopy Knob base to accept a 10mm vibrating motor (available in the 3D folder of this repo, or on [MakerWorld](https://makerworld.com/en/models/1648416-ploopy-knob-haptic-feedback-mod#profileId-1742494) | N/A | Any generic 3V coin vibration motor, like [this one from Adafruit](https://www.adafruit.com/product/1201) or [this one from Amazon](https://amzn.to/40Fq3BN)|
 
 ### Tools & Supplies
 - [Solder](https://amzn.to/3UwkeTA)
