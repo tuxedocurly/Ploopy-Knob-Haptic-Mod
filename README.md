@@ -22,6 +22,7 @@ This guide assumes you have basic soldering experience, particularly with surfac
 - soldering iron - [Fnirsi HS-02A](https://amzn.to/4mfQypM)
 - hot plate - [T55 Hotplate](https://amzn.to/4ofEBlY)
 - [isopropyl alcohol](https://amzn.to/4o0Ajyu)
+- 3D printed Ploopy Knob base modified to hold the Adafruit motor
 
 ---
 
