@@ -84,3 +84,7 @@ Build command:
 ```
 qmk compile -kb ploopyco/knob/rev1_001 -km haptic
 ```
+
+---
+## Under what license is this released?
+Per QMK's licensing requirements, the firmware for the this modification is released under GPLv3. The mechanicals (3D printed files) are released under OHL CERN v2-S.
